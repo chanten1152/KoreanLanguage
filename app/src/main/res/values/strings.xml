@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">韓国語翻訳アプリ</string>
+    <string name="tv_title">翻訳したい単語を入力してみよう</string>
+    <string name="tv_japanese">日本語入力</string>
+    <string name="tv_korean">韓国語出力</string>
+    <string name="tv_result">結果</string>
+    <string name="bt_register">My Listに追加する</string>
+</resources>
